@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BitTogglePage.qml</file>
+        <file>MemoryListPage.qml</file>
+        <file>CalculatorPage.qml</file>
+    </qresource>
+</RCC>
